@@ -1,0 +1,3 @@
+It fails when I watch
+I add one print, it passes
+the print was the fix
